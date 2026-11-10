@@ -1,2 +1,5 @@
 # career-desk
-求职工作台 · Job tracker with public job listings
+
+求职工作台，用来查看公开招聘岗位、整理独立简历和记录投递进度。
+
+页面通过 GitHub Pages 发布。简历附件、跟进记录与自建岗位保存在当前浏览器。页面可以导出与导入备份。
