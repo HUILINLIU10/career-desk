@@ -1,4 +1,984 @@
 window.SEED_JOBS = [
+  // 深圳岗位于 2026-11-11 核查，按稳定岗位ID维护。
+{
+    "id": "sz-anker-nonproduction-procurement",
+    "badge": "安",
+    "company": "安克创新",
+    "title": "采购工程师（非生产方向）",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "优先关注 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「优先」，属于岗位适配判断。",
+    "duties": [
+      "参与供应商选择、定位、评审和绩效管理，维护供应商资源池。",
+      "对接营销和物流采购需求，整理成本及竞争数据，支持采购策略。"
+    ],
+    "requirements": [
+      "2027届本科及以上，专业不限"
+    ],
+    "school": "单岗未列985/211限制。有双非本科运营岗获录用的公开自述，帖子含内推内容，候选人身份及录用结果未独立核验。历史案例与本岗筛选不完全对应。",
+    "apply": "https://anker-in.jobs.feishu.cn/campushirecn/position/7671174921448048905/detail",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://anker-in.jobs.feishu.cn/campushirecn/position/7671174921448048905/detail",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://www.nowcoder.com/feed/main/detail/ee21224d4c8f4289b790805e31d9d14b",
+        "牛客 · 双非本科运营录用自述"
+      ]
+    ]
+  },
+  {
+    "id": "sz-anker-supply-chain",
+    "badge": "安",
+    "company": "安克创新",
+    "title": "供应链管理工程师",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "优先关注 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「优先」，属于岗位适配判断。",
+    "duties": [
+      "参与订单交付、供需计划、采购履行、物流或关务方向工作。",
+      "跟进订单、物料和库存指标，协调供应异常。"
+    ],
+    "requirements": [
+      "2027届本科及以上，专业不限"
+    ],
+    "school": "单岗未列985/211限制。有双非本科运营岗获录用的公开自述，帖子含内推内容，候选人身份及录用结果未独立核验。历史案例与本岗筛选不完全对应。",
+    "apply": "https://anker-in.jobs.feishu.cn/campushirecn/position/7676005986402224435/detail",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://anker-in.jobs.feishu.cn/campushirecn/position/7676005986402224435/detail",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://www.nowcoder.com/feed/main/detail/ee21224d4c8f4289b790805e31d9d14b",
+        "牛客 · 双非本科运营录用自述"
+      ]
+    ]
+  },
+  {
+    "id": "sz-anker-global-channel",
+    "badge": "安",
+    "company": "安克创新",
+    "title": "全球渠道操盘手",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "优先关注 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「优先」，属于岗位适配判断。",
+    "duties": [
+      "维护销售系统数据及客户准入档案，协同客户信用和渠道管理。",
+      "跟进订单、交付、回款及费用，分析经营指标并推动异常闭环。"
+    ],
+    "requirements": [
+      "本科及以上，数据分析/理工科优先，英语作为工作语言"
+    ],
+    "school": "单岗未列985/211限制。有双非本科运营岗获录用的公开自述，帖子含内推内容，候选人身份及录用结果未独立核验。历史案例与本岗筛选不完全对应。",
+    "apply": "https://anker-in.jobs.feishu.cn/campushirecn/position/7676417621721434410/detail",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://anker-in.jobs.feishu.cn/campushirecn/position/7676417621721434410/detail",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://www.nowcoder.com/feed/main/detail/ee21224d4c8f4289b790805e31d9d14b",
+        "牛客 · 双非本科运营录用自述"
+      ]
+    ]
+  },
+  {
+    "id": "sz-anker-global-ecommerce",
+    "badge": "安",
+    "company": "安克创新",
+    "title": "全球电商操盘手",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "优先关注 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「优先」，属于岗位适配判断。",
+    "duties": [
+      "参与电商平台销售、运营、推广和品类增长。",
+      "开展用户、竞品和市场分析，推进定价、选品和营销策略。"
+    ],
+    "requirements": [
+      "本科及以上，数据分析/理工科优先，英语作为工作语言"
+    ],
+    "school": "单岗未列985/211限制。有双非本科运营岗获录用的公开自述，帖子含内推内容，候选人身份及录用结果未独立核验。历史案例与本岗筛选不完全对应。",
+    "apply": "https://anker-in.jobs.feishu.cn/campushirecn/position/7676421257408022838/detail",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://anker-in.jobs.feishu.cn/campushirecn/position/7676421257408022838/detail",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://www.nowcoder.com/feed/main/detail/ee21224d4c8f4289b790805e31d9d14b",
+        "牛客 · 双非本科运营录用自述"
+      ]
+    ]
+  },
+  {
+    "id": "sz-anker-gtm",
+    "badge": "安",
+    "company": "安克创新",
+    "title": "GTM市场产品经理",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "优先关注 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「优先」，属于岗位适配判断。",
+    "duties": [
+      "参与新品上市方案、市场竞品分析、定价及促销建议。",
+      "协调产品、供应链和销售团队，跟踪备货、上架和上市节奏。"
+    ],
+    "requirements": [
+      "2027届本科及以上，专业不限，理工科优先，工作英语为硬性要求"
+    ],
+    "school": "单岗未列985/211限制。有双非本科运营岗获录用的公开自述，帖子含内推内容，候选人身份及录用结果未独立核验。历史案例与本岗筛选不完全对应。",
+    "apply": "https://anker-in.jobs.feishu.cn/campushirecn/position/7676423214009305382/detail",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://anker-in.jobs.feishu.cn/campushirecn/position/7676423214009305382/detail",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://www.nowcoder.com/feed/main/detail/ee21224d4c8f4289b790805e31d9d14b",
+        "牛客 · 双非本科运营录用自述"
+      ]
+    ]
+  },
+  {
+    "id": "sz-anker-management-coe",
+    "badge": "安",
+    "company": "安克创新",
+    "title": "综合管理COE",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "优先关注 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「优先」，属于岗位适配判断。",
+    "duties": [
+      "参与新业务行业研究、竞品分析及战略材料整理。",
+      "整合决策信息、维护项目进度，协调供应商及跨部门事项。"
+    ],
+    "requirements": [
+      "2027届本科及以上，欢迎其他专业背景，CET-4及以上"
+    ],
+    "school": "单岗未列985/211限制。有双非本科运营岗获录用的公开自述，帖子含内推内容，候选人身份及录用结果未独立核验。历史案例与本岗筛选不完全对应。",
+    "apply": "https://anker-in.jobs.feishu.cn/campushirecn/position/7702381263831140650/detail",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://anker-in.jobs.feishu.cn/campushirecn/position/7702381263831140650/detail",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://www.nowcoder.com/feed/main/detail/ee21224d4c8f4289b790805e31d9d14b",
+        "牛客 · 双非本科运营录用自述"
+      ]
+    ]
+  },
+  {
+    "id": "sz-anker-production-procurement",
+    "badge": "安",
+    "company": "安克创新",
+    "title": "采购工程师（生产方向）",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「可投」，属于岗位适配判断。",
+    "duties": [
+      "跟进采购需求、合同和订单，参与新产品物料导入。",
+      "维护供应商，整理成本价格和采购数据。"
+    ],
+    "requirements": [
+      "2027届本科及以上，专业不限，理工科及供应链专业优先"
+    ],
+    "school": "单岗未列985/211限制。有双非本科运营岗获录用的公开自述，帖子含内推内容，候选人身份及录用结果未独立核验。历史案例与本岗筛选不完全对应。",
+    "apply": "https://anker-in.jobs.feishu.cn/campushirecn/position/7671175170782366015/detail",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://anker-in.jobs.feishu.cn/campushirecn/position/7671175170782366015/detail",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://www.nowcoder.com/feed/main/detail/ee21224d4c8f4289b790805e31d9d14b",
+        "牛客 · 双非本科运营录用自述"
+      ]
+    ]
+  },
+  {
+    "id": "sz-anker-dtc",
+    "badge": "安",
+    "company": "安克创新",
+    "title": "DTC独立站运营经理",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「可投」，属于岗位适配判断。",
+    "duties": [
+      "参与独立站经营策略、商品排布、内容及价格管理。",
+      "协同销售预测和供应链，跟进新品、大促、用户体验及转化。"
+    ],
+    "requirements": [
+      "校招正式岗，本科及以上，数据分析/理工科优先，英语作为工作语言"
+    ],
+    "school": "单岗未列985/211限制。有双非本科运营岗获录用的公开自述，帖子含内推内容，候选人身份及录用结果未独立核验。历史案例与本岗筛选不完全对应。",
+    "apply": "https://anker-in.jobs.feishu.cn/campushirecn/position/7676426873178556714/detail",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://anker-in.jobs.feishu.cn/campushirecn/position/7676426873178556714/detail",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://www.nowcoder.com/feed/main/detail/ee21224d4c8f4289b790805e31d9d14b",
+        "牛客 · 双非本科运营录用自述"
+      ]
+    ]
+  },
+  {
+    "id": "sz-anker-marketing-growth",
+    "badge": "安",
+    "company": "安克创新",
+    "title": "营销增长专员",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "确认专业 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「确认专业」，属于岗位适配判断。单岗未明确列经济学，应先确认专业资格。",
+    "duties": [
+      "分析营销、用户行为和ROI数据，识别增长机会。",
+      "协助海外广告投放、A/B测试和转化漏斗优化。"
+    ],
+    "requirements": [
+      "2027届本科及以上，数据/统计/营销等背景，经济学归类需确认"
+    ],
+    "school": "单岗未列985/211限制。有双非本科运营岗获录用的公开自述，帖子含内推内容，候选人身份及录用结果未独立核验。历史案例与本岗筛选不完全对应。",
+    "apply": "https://anker-in.jobs.feishu.cn/campushirecn/position/7676431486278519083/detail",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://anker-in.jobs.feishu.cn/campushirecn/position/7676431486278519083/detail",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://www.nowcoder.com/feed/main/detail/ee21224d4c8f4289b790805e31d9d14b",
+        "牛客 · 双非本科运营录用自述"
+      ]
+    ]
+  },
+  {
+    "id": "sz-anker-regional-sales",
+    "badge": "安",
+    "company": "安克创新",
+    "title": "区域销售经理",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「可投」，属于岗位适配判断。",
+    "duties": [
+      "开发和维护企业及渠道客户，跟进需求、方案、谈判和签约。",
+      "协同交付，复盘区域营销及竞品、价格和渠道信息。"
+    ],
+    "requirements": [
+      "2027届本科及以上，专业不限，需适应客户拜访和国际展会差旅"
+    ],
+    "school": "单岗未列985/211限制。有双非本科运营岗获录用的公开自述，帖子含内推内容，候选人身份及录用结果未独立核验。历史案例与本岗筛选不完全对应。",
+    "apply": "https://anker-in.jobs.feishu.cn/campushirecn/position/7676425557084686611/detail",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://anker-in.jobs.feishu.cn/campushirecn/position/7676425557084686611/detail",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://www.nowcoder.com/feed/main/detail/ee21224d4c8f4289b790805e31d9d14b",
+        "牛客 · 双非本科运营录用自述"
+      ]
+    ]
+  },
+  {
+    "id": "sz-anker-brand-communications",
+    "badge": "安",
+    "company": "安克创新",
+    "title": "品牌传播专员",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「可投」，属于岗位适配判断。",
+    "duties": [
+      "参与品牌活动创意、内容策划、社媒及KOL合作。",
+      "支持媒体关系及公关活动，探索AI辅助内容生产。"
+    ],
+    "requirements": [
+      "2027届本科及以上，专业不限，需要内容或品牌项目经验"
+    ],
+    "school": "单岗未列985/211限制。有双非本科运营岗获录用的公开自述，帖子含内推内容，候选人身份及录用结果未独立核验。历史案例与本岗筛选不完全对应。",
+    "apply": "https://anker-in.jobs.feishu.cn/campushirecn/position/7676436233111619849/detail",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://anker-in.jobs.feishu.cn/campushirecn/position/7676436233111619849/detail",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://www.nowcoder.com/feed/main/detail/ee21224d4c8f4289b790805e31d9d14b",
+        "牛客 · 双非本科运营录用自述"
+      ]
+    ]
+  },
+  {
+    "id": "sz-ecoflow-inside-sales-en",
+    "badge": "浩",
+    "company": "正浩创新",
+    "title": "Inside Sales（英语）",
+    "industry": "新能源",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "优先关注 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「优先」，属于岗位适配判断。",
+    "duties": [
+      "跟进海外客户咨询、报价、销售合同、订单履约和交付协调。",
+      "维护POS、库存、付款及业绩报表，协助市场活动和培训。"
+    ],
+    "requirements": [
+      "2027届本科及以上，商科等专业，英语作为工作语言"
+    ],
+    "school": "单岗未列985/211限制。四川美术学院发布2027届招聘，说明招聘覆盖该校。另有历史双非硕候选人反馈，均不能代表各部门的实际院校筛选。",
+    "apply": "https://jobs.ecoflow.com/602892/position/7678717954024655167/detail",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://jobs.ecoflow.com/602892/position/7678717954024655167/detail",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://www.scfai.edu.cn/xsc/info/1015/21432.htm",
+        "四川美术学院 · 2027届招聘"
+      ]
+    ]
+  },
+  {
+    "id": "sz-ecoflow-integrated-marketing-en",
+    "badge": "浩",
+    "company": "正浩创新",
+    "title": "整合营销（英语）",
+    "industry": "新能源",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "优先关注 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「优先」，属于岗位适配判断。",
+    "duties": [
+      "协助新品营销方案、推广素材及数字营销执行。",
+      "协调活动节点和跨团队资源，跟踪ROI并参与复盘。"
+    ],
+    "requirements": [
+      "2027届本科及以上，营销/管理/工程相关专业优先，CET-6或雅思6.5"
+    ],
+    "school": "单岗未列985/211限制。四川美术学院发布2027届招聘，说明招聘覆盖该校。另有历史双非硕候选人反馈，均不能代表各部门的实际院校筛选。",
+    "apply": "https://jobs.ecoflow.com/602892/position/7678717525073676585/detail",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://jobs.ecoflow.com/602892/position/7678717525073676585/detail",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://www.scfai.edu.cn/xsc/info/1015/21432.htm",
+        "四川美术学院 · 2027届招聘"
+      ]
+    ]
+  },
+  {
+    "id": "sz-ecoflow-channel-sales-en",
+    "badge": "浩",
+    "company": "正浩创新",
+    "title": "渠道销售（英语）",
+    "industry": "新能源",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「可投」，属于岗位适配判断。",
+    "duties": [
+      "开发和维护海外渠道客户、代理商及合作伙伴。",
+      "协同渠道促销，关注库存、账期和合规风险。"
+    ],
+    "requirements": [
+      "2027届本科及以上，理工科优先，英语听说读写流利"
+    ],
+    "school": "单岗未列985/211限制。四川美术学院发布2027届招聘，说明招聘覆盖该校。另有历史双非硕候选人反馈，均不能代表各部门的实际院校筛选。",
+    "apply": "https://jobs.ecoflow.com/602892/position/7678717562645416230/detail",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://jobs.ecoflow.com/602892/position/7678717562645416230/detail",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://www.scfai.edu.cn/xsc/info/1015/21432.htm",
+        "四川美术学院 · 2027届招聘"
+      ]
+    ]
+  },
+  {
+    "id": "sz-ecoflow-media-buying",
+    "badge": "浩",
+    "company": "正浩创新",
+    "title": "媒介投放",
+    "industry": "新能源",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "确认专业 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「确认专业」，属于岗位适配判断。单岗未明确列经济学，应先确认专业资格。",
+    "duties": [
+      "执行海外效果广告投放，跟进受众、预算、出价和创意。",
+      "分析点击、成本、ROAS及转化漏斗，推动素材和策略优化。"
+    ],
+    "requirements": [
+      "2027届本科及以上，营销/广告/数据分析等专业，CET-6，经济学需确认"
+    ],
+    "school": "单岗未列985/211限制。四川美术学院发布2027届招聘，说明招聘覆盖该校。另有历史双非硕候选人反馈，均不能代表各部门的实际院校筛选。",
+    "apply": "https://jobs.ecoflow.com/602892/position/7678719133240314138/detail",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://jobs.ecoflow.com/602892/position/7678719133240314138/detail",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://www.scfai.edu.cn/xsc/info/1015/21432.htm",
+        "四川美术学院 · 2027届招聘"
+      ]
+    ]
+  },
+  {
+    "id": "sz-ecoflow-social-media-en",
+    "badge": "浩",
+    "company": "正浩创新",
+    "title": "社媒运营（英语）",
+    "industry": "新能源",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "确认专业 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「确认专业」，属于岗位适配判断。单岗未明确列经济学，应先确认专业资格。",
+    "duties": [
+      "策划和发布海外社媒图文及短视频，维护账号和用户社群。",
+      "协助KOL合作，跟踪触达、互动及增长，整理竞品动态。"
+    ],
+    "requirements": [
+      "2027届本科及以上，营销/广告/传播/语言等相关专业，CET-6及英文文案，经济学需确认"
+    ],
+    "school": "单岗未列985/211限制。四川美术学院发布2027届招聘，说明招聘覆盖该校。另有历史双非硕候选人反馈，均不能代表各部门的实际院校筛选。",
+    "apply": "https://jobs.ecoflow.com/602892/position/7678717054119282980/detail",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://jobs.ecoflow.com/602892/position/7678717054119282980/detail",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://www.scfai.edu.cn/xsc/info/1015/21432.htm",
+        "四川美术学院 · 2027届招聘"
+      ]
+    ]
+  },
+  {
+    "id": "sz-pudu-business-trainee",
+    "badge": "普",
+    "company": "普渡机器人",
+    "title": "商务管培生",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "优先关注 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「优先」，属于岗位适配判断。",
+    "duties": [
+      "登记、分级并分发销售线索，跟踪转化及线索台账。",
+      "协调总部客户接待、会议和物料，沉淀流程及话术。"
+    ],
+    "requirements": [
+      "本科及以上，专业不限，英语工作能力优先"
+    ],
+    "school": "单岗未列985/211限制。厦门理工学院发布2027届校招记录，属于院校招聘覆盖证据，实际筛选需结合具体岗位。",
+    "apply": "https://pudutech1.zhiye.com/campus/jobs",
+    "applyLabel": "打开官网按岗位名查找",
+    "sources": [
+      [
+        "https://pudutech1.zhiye.com/campus/jobs",
+        "企业校招列表 · 按岗位名称或编号查找"
+      ],
+      [
+        "https://job.xmut.edu.cn/info/1007/11798.htm",
+        "厦门理工学院 · 2027届校招"
+      ]
+    ]
+  },
+  {
+    "id": "sz-pudu-marketing",
+    "badge": "普",
+    "company": "普渡机器人",
+    "title": "市场营销",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「可投」，属于岗位适配判断。",
+    "duties": [
+      "协助区域营销、国内社媒运营和广告执行。",
+      "支持展会、发布会及渠道物料，整理数据和活动复盘。"
+    ],
+    "requirements": [
+      "营销/国际商务等专业优先，需要中英文读写及基础内容工具"
+    ],
+    "school": "单岗未列985/211限制。厦门理工学院发布2027届校招记录，属于院校招聘覆盖证据，实际筛选需结合具体岗位。",
+    "apply": "https://pudutech1.zhiye.com/campus/jobs",
+    "applyLabel": "打开官网按岗位名查找",
+    "sources": [
+      [
+        "https://pudutech1.zhiye.com/campus/jobs",
+        "企业校招列表 · 按岗位名称或编号查找"
+      ],
+      [
+        "https://job.xmut.edu.cn/info/1007/11798.htm",
+        "厦门理工学院 · 2027届校招"
+      ]
+    ]
+  },
+  {
+    "id": "sz-pudu-digital-marketing",
+    "badge": "普",
+    "company": "普渡机器人",
+    "title": "数字营销",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「补技能后投」，属于岗位适配判断。",
+    "duties": [
+      "协助SEO、SEM及社交广告执行，探索AI搜索内容优化。",
+      "维护CRM线索，整理流量及数字营销数据报告。"
+    ],
+    "requirements": [
+      "相关专业优先，需数字营销实习及SEO/SEM/分析工具基础"
+    ],
+    "school": "单岗未列985/211限制。厦门理工学院发布2027届校招记录，属于院校招聘覆盖证据，实际筛选需结合具体岗位。",
+    "apply": "https://pudutech1.zhiye.com/campus/jobs",
+    "applyLabel": "打开官网按岗位名查找",
+    "sources": [
+      [
+        "https://pudutech1.zhiye.com/campus/jobs",
+        "企业校招列表 · 按岗位名称或编号查找"
+      ],
+      [
+        "https://job.xmut.edu.cn/info/1007/11798.htm",
+        "厦门理工学院 · 2027届校招"
+      ]
+    ]
+  },
+  {
+    "id": "sz-pudu-brand",
+    "badge": "普",
+    "company": "普渡机器人",
+    "title": "品牌专员",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "确认专业 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「确认专业」，属于岗位适配判断。单岗未明确列经济学，应先确认专业资格。",
+    "duties": [
+      "支持官方账号日常内容发布、社媒报表和品牌活动。",
+      "维护品牌素材库，收集竞品及行业资讯，协调供应商和流程。"
+    ],
+    "requirements": [
+      "新闻/传播/公关/外语等优先，英文读写良好，经济学归类需确认"
+    ],
+    "school": "单岗未列985/211限制。厦门理工学院发布2027届校招记录，属于院校招聘覆盖证据，实际筛选需结合具体岗位。",
+    "apply": "https://pudutech1.zhiye.com/campus/jobs",
+    "applyLabel": "打开官网按岗位名查找",
+    "sources": [
+      [
+        "https://pudutech1.zhiye.com/campus/jobs",
+        "企业校招列表 · 按岗位名称或编号查找"
+      ],
+      [
+        "https://job.xmut.edu.cn/info/1007/11798.htm",
+        "厦门理工学院 · 2027届校招"
+      ]
+    ]
+  },
+  {
+    "id": "sz-pudu-overseas-sales-j12689",
+    "badge": "普",
+    "company": "普渡机器人",
+    "title": "海外销售管培生（美澳英）J12689",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2026 / 2027届校招 · 全职",
+    "availability": "官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「可投」，属于岗位适配判断。",
+    "duties": [
+      "开发海外渠道客户，处理询盘、报价、出货和客户关系。",
+      "开展行业竞品调查，协助区域策略及品牌营销活动。"
+    ],
+    "requirements": [
+      "2026或2027届本科/硕士，英语等可作为工作语言，接受定期海外出差"
+    ],
+    "school": "单岗未列985/211限制。厦门理工学院发布2027届校招记录，属于院校招聘覆盖证据，实际筛选需结合具体岗位。",
+    "apply": "https://pudutech1.zhiye.com/campus/jobs",
+    "applyLabel": "打开官网按岗位名查找",
+    "sources": [
+      [
+        "https://pudutech1.zhiye.com/campus/jobs",
+        "企业校招列表 · 按岗位名称或编号查找"
+      ],
+      [
+        "https://job.xmut.edu.cn/info/1007/11798.htm",
+        "厦门理工学院 · 2027届校招"
+      ]
+    ]
+  },
+  {
+    "id": "sz-invt-market-analysis",
+    "badge": "腾",
+    "company": "英威腾",
+    "title": "市场分析专员",
+    "industry": "新能源",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "优先关注 · 本届公告列岗 · 余量待核",
+    "availabilityDetail": "2026-11-11 核查。本届校招岗位表列出深圳及对应学历专业，具体名额和当前受理状态待确认。整理建议为「优先」，属于岗位适配判断。",
+    "duties": [
+      "开展市场与行业信息分析。"
+    ],
+    "requirements": [
+      "本科/硕士，明确列经济学"
+    ],
+    "school": "西安理工大学发布2027届招聘，单岗学历及专业要求见岗位表。招聘覆盖该校，经济学是否适用需逐岗核对。",
+    "apply": "https://invt.zhiye.com/campus",
+    "applyLabel": "打开企业校招网申",
+    "sources": [
+      [
+        "https://51uns.bysjy.com.cn/Lecture/Details/717013?schoolCode=10700",
+        "高校发布 · 本届岗位表"
+      ]
+    ]
+  },
+  {
+    "id": "sz-invt-sales-service-operations",
+    "badge": "腾",
+    "company": "英威腾",
+    "title": "销服运营专员",
+    "industry": "新能源",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "确认专业 · 本届公告列岗 · 余量待核",
+    "availabilityDetail": "2026-11-11 核查。本届校招岗位表列出深圳及对应学历专业，具体名额和当前受理状态待确认。整理建议为「确认专业」，属于岗位适配判断。单岗未明确列经济学，应先确认专业资格。",
+    "duties": [
+      "参与销售及服务运营。",
+      "单岗细化职责以官方申请页面为准。"
+    ],
+    "requirements": [
+      "本科/硕士，国贸/工商管理/数据统计等，经济学需确认"
+    ],
+    "school": "西安理工大学发布2027届招聘，单岗学历及专业要求见岗位表。招聘覆盖该校，经济学是否适用需逐岗核对。",
+    "apply": "https://invt.zhiye.com/campus",
+    "applyLabel": "打开企业校招网申",
+    "sources": [
+      [
+        "https://51uns.bysjy.com.cn/Lecture/Details/717013?schoolCode=10700",
+        "高校发布 · 本届岗位表"
+      ]
+    ]
+  },
+  {
+    "id": "sz-invt-business",
+    "badge": "腾",
+    "company": "英威腾",
+    "title": "商务专员",
+    "industry": "新能源",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "确认专业 · 本届公告列岗 · 余量待核",
+    "availabilityDetail": "2026-11-11 核查。本届校招岗位表列出深圳及对应学历专业，具体名额和当前受理状态待确认。整理建议为「确认专业」，属于岗位适配判断。单岗未明确列经济学，应先确认专业资格。",
+    "duties": [
+      "参与商务支持与业务协同。",
+      "单岗细化职责以官方申请页面为准。"
+    ],
+    "requirements": [
+      "本科/硕士，营销/工商管理/国贸/电商等，经济学需确认"
+    ],
+    "school": "西安理工大学发布2027届招聘，单岗学历及专业要求见岗位表。招聘覆盖该校，经济学是否适用需逐岗核对。",
+    "apply": "https://invt.zhiye.com/campus",
+    "applyLabel": "打开企业校招网申",
+    "sources": [
+      [
+        "https://51uns.bysjy.com.cn/Lecture/Details/717013?schoolCode=10700",
+        "高校发布 · 本届岗位表"
+      ]
+    ]
+  },
+  {
+    "id": "sz-ugreen-procurement-development",
+    "badge": "绿",
+    "company": "绿联科技",
+    "title": "采购开发工程师",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "官网入口可用 · 受理待核",
+    "availabilityDetail": "2026-11-11 核查。官网校招列表仍列此岗并显示投递入口。主批次公开网申期为9月15日至10月31日，补招是否继续受理需向招聘方确认。整理建议为「可投」，属于岗位适配判断。",
+    "duties": [
+      "开发和维护供应商档案，整理资质、产能及绩效数据。",
+      "协助成本与价格分析、新品打样跟进及采购报表。"
+    ],
+    "requirements": [
+      "本科及以上，供应链/国贸等优先，需适应华南工厂出差"
+    ],
+    "school": "上述单岗未列985/211限制，同岗位双非录用记录和实际院校筛选偏好仍待核实。",
+    "apply": "https://ugreen.zhiye.com/campus/detail?jobAdId=f21d1c80-09fc-41c1-8a1c-60b92f6506b9",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://ugreen.zhiye.com/campus/detail?jobAdId=f21d1c80-09fc-41c1-8a1c-60b92f6506b9",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://ugreen.zhiye.com/campus",
+        "绿联 · 校招范围与流程"
+      ]
+    ]
+  },
+  {
+    "id": "sz-ugreen-overseas-sales-en",
+    "badge": "绿",
+    "company": "绿联科技",
+    "title": "海外销售员（英语）",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "官网入口可用 · 受理待核",
+    "availabilityDetail": "2026-11-11 核查。官网校招列表仍列此岗并显示投递入口。主批次公开网申期为9月15日至10月31日，补招是否继续受理需向招聘方确认。整理建议为「可投」，属于岗位适配判断。",
+    "duties": [
+      "搜集海外市场及潜在客户信息，开发维护品牌代理商。",
+      "跟进询价、样品、生产出货及售后，协助上市和渠道推广。"
+    ],
+    "requirements": [
+      "本科及以上，CET-6，流利英语口语为硬性要求"
+    ],
+    "school": "上述单岗未列985/211限制，同岗位双非录用记录和实际院校筛选偏好仍待核实。",
+    "apply": "https://ugreen.zhiye.com/campus/detail?jobAdId=f68fe7df-855a-4162-984a-72d2c634d3e0",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://ugreen.zhiye.com/campus/detail?jobAdId=f68fe7df-855a-4162-984a-72d2c634d3e0",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://ugreen.zhiye.com/campus",
+        "绿联 · 校招范围与流程"
+      ]
+    ]
+  },
+  {
+    "id": "sz-ktc-procurement-j11706",
+    "badge": "康",
+    "company": "康冠科技",
+    "title": "采购工程师 J11706",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "优先关注 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「优先」，属于岗位适配判断。",
+    "duties": [
+      "开展显示产品物料寻源、询比价、核价及供应商维护。",
+      "跟进采购订单、到料异常、降本、结算及供应商数据。"
+    ],
+    "requirements": [
+      "本科及以上，明确接受经管类，CET-4及以上"
+    ],
+    "school": "单岗未列985/211限制。厦门理工学院发布2027届校招简章，属于院校招聘覆盖记录。采购接受经管类，证券岗接受经济专业。",
+    "apply": "https://careerktc.zhiye.com/campus/detail?jobAdId=d923b6e2-0266-4c99-8fe7-0fb798a0c758",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://careerktc.zhiye.com/campus/detail?jobAdId=d923b6e2-0266-4c99-8fe7-0fb798a0c758",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://job.xmut.edu.cn/info/1007/11994.htm",
+        "厦门理工学院 · 本届校招"
+      ]
+    ]
+  },
+  {
+    "id": "sz-ktc-shipping-j11780",
+    "badge": "康",
+    "company": "康冠科技",
+    "title": "船务专员 J11780",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "优先关注 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「优先」，属于岗位适配判断。",
+    "duties": [
+      "安排订舱、出货文件、车辆及提单核对，跟踪货物。",
+      "支持海外加工厂船务，协调海外物流异常。"
+    ],
+    "requirements": [
+      "本科及以上，CET-6，工作英语，接受海外出差，需熟悉进出口流程"
+    ],
+    "school": "单岗未列985/211限制。厦门理工学院发布2027届校招简章，属于院校招聘覆盖记录。采购接受经管类，证券岗接受经济专业。",
+    "apply": "https://careerktc.zhiye.com/campus/detail?jobAdId=3c9c509e-0894-4bcf-890a-8772b8de2ed0",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://careerktc.zhiye.com/campus/detail?jobAdId=3c9c509e-0894-4bcf-890a-8772b8de2ed0",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://job.xmut.edu.cn/info/1007/11994.htm",
+        "厦门理工学院 · 本届校招"
+      ]
+    ]
+  },
+  {
+    "id": "sz-ktc-securities-j11717",
+    "badge": "康",
+    "company": "康冠科技",
+    "title": "证券专员 J11717",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "优先关注 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「优先」，属于岗位适配判断。",
+    "duties": [
+      "协助起草披露临时公告、定期报告。",
+      "支持股东大会、董事会及投资者关系相关证券事务。"
+    ],
+    "requirements": [
+      "本科及以上，明确接受经济专业，需补公司法及证券事务知识"
+    ],
+    "school": "单岗未列985/211限制。厦门理工学院发布2027届校招简章，属于院校招聘覆盖记录。采购接受经管类，证券岗接受经济专业。",
+    "apply": "https://careerktc.zhiye.com/campus/detail?jobAdId=95c80e58-7278-40a4-aef3-f13bc03a0445",
+    "applyLabel": "打开官方招聘入口",
+    "sources": [
+      [
+        "https://careerktc.zhiye.com/campus/detail?jobAdId=95c80e58-7278-40a4-aef3-f13bc03a0445",
+        "企业官网 · 岗位详情与投递"
+      ],
+      [
+        "https://job.xmut.edu.cn/info/1007/11994.htm",
+        "厦门理工学院 · 本届校招"
+      ]
+    ]
+  },
+  {
+    "id": "sz-transsion-planning-j20427",
+    "badge": "传",
+    "company": "传音控股",
+    "title": "计划专员 J20427",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「可投」，属于岗位适配判断。",
+    "duties": [
+      "承接销售订单和预测，跟进交付、供应商排产及库存计划。",
+      "维护交付、库存周转及履约报表，参与流程和系统改善。"
+    ],
+    "requirements": [
+      "供应链/物流/统计等专业优先，熟练Excel，ERP和AI工具加分"
+    ],
+    "school": "单岗未列985/211限制。有历史双非硕候选人录用或意向自述，城市和岗位与本次不同，同岗录用与实际院校偏好仍待核实。",
+    "apply": "https://transsion.zhiye.com/campus/jobs",
+    "applyLabel": "打开官网按岗位名查找",
+    "sources": [
+      [
+        "https://transsion.zhiye.com/campus/jobs",
+        "企业校招列表 · 按岗位名称或编号查找"
+      ],
+      [
+        "https://www.nowcoder.com/feed/main/detail/9de300f5b51842ac88ca3cd79a2d45af",
+        "牛客 · 历史候选人自述"
+      ]
+    ]
+  },
+  {
+    "id": "sz-transsion-business-j20428",
+    "badge": "传",
+    "company": "传音控股",
+    "title": "商务专员 J20428",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "确认专业 · 官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「确认专业」，属于岗位适配判断。单岗未明确列经济学，应先确认专业资格。",
+    "duties": [
+      "通过SAP跟进销售订单、发货、报关清关和物流。",
+      "制作英文单证，维护客户账务、回款、对账及商务沟通。"
+    ],
+    "requirements": [
+      "国贸/物流或相关专业，英语或法语作为工作语言，经济学需确认"
+    ],
+    "school": "单岗未列985/211限制。有历史双非硕候选人录用或意向自述，城市和岗位与本次不同，同岗录用与实际院校偏好仍待核实。",
+    "apply": "https://transsion.zhiye.com/campus/jobs",
+    "applyLabel": "打开官网按岗位名查找",
+    "sources": [
+      [
+        "https://transsion.zhiye.com/campus/jobs",
+        "企业校招列表 · 按岗位名称或编号查找"
+      ],
+      [
+        "https://www.nowcoder.com/feed/main/detail/9de300f5b51842ac88ca3cd79a2d45af",
+        "牛客 · 历史候选人自述"
+      ]
+    ]
+  },
+  {
+    "id": "sz-transsion-sales-management-j20499",
+    "badge": "传",
+    "company": "传音控股",
+    "title": "销售管理专员 J20499",
+    "industry": "出海业务",
+    "city": "深圳",
+    "type": "2027届校招 · 正式",
+    "availability": "官网岗位可查",
+    "availabilityDetail": "2026-11-11 核查。企业官网仍可查此校招岗位。剩余名额和实际受理以企业回复为准。整理建议为「接受海外安排后投」，属于岗位适配判断。",
+    "duties": [
+      "参与销售预测、目标拆解、产品组合及定价分析。",
+      "跟进GTM执行、经营达成和库存健康，支持区域业务。"
+    ],
+    "requirements": [
+      "数据类专业优先，流利工作英语，接受频繁海外出差或常驻"
+    ],
+    "school": "单岗未列985/211限制。有历史双非硕候选人录用或意向自述，城市和岗位与本次不同，同岗录用与实际院校偏好仍待核实。",
+    "apply": "https://transsion.zhiye.com/campus/jobs",
+    "applyLabel": "打开官网按岗位名查找",
+    "sources": [
+      [
+        "https://transsion.zhiye.com/campus/jobs",
+        "企业校招列表 · 按岗位名称或编号查找"
+      ],
+      [
+        "https://www.nowcoder.com/feed/main/detail/9de300f5b51842ac88ca3cd79a2d45af",
+        "牛客 · 历史候选人自述"
+      ]
+    ]
+  },
   {
     id:"cosco-dalian-service",badge:"远",company:"大连中远海运物流供应链",title:"集装箱海运中心客户服务岗",
     industry:"船舶港航",city:"大连 · 中山区",type:"2027 届校招",deadline:"2027-08-31",
