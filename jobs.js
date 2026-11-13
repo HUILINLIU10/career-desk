@@ -1056,4 +1056,562 @@ window.SEED_JOBS = [
 
     resumeMatch:"德业股份-营销管理专员-"
   }
+,
+  // 2026-11-12 新增15个候选岗位；保留截止与适配待确认事项。
+{
+  "id": "sz-songmics-data-trainee",
+  "badge": "致",
+  "company": "致欧家居",
+  "title": "数据分析师管培生",
+  "industry": "出海业务",
+  "city": "深圳",
+  "type": "2027届校招 · 正式",
+  "availability": "新增候选 · 官网岗位可查",
+  "availabilityDetail": "2026-11-12 核查。截止情况：2026年8—11月秋招，未公布具体日。岗位列示和申请入口不保证剩余名额，实际受理以企业为准。",
+  "deadlineLabel": "2026年8—11月秋招，未公布具体日",
+  "duties": [
+    "经营指标、BI看板、AI提效"
+  ],
+  "requirements": [
+    "本科，明确包含经济学；Excel必需，SQL/Python/BI优先",
+    "2027届校园招聘；具体毕业时间范围以本公司当届校招公告为准。"
+  ],
+  "school": "官网校招员工故事包含中南林业科技大学、南京林业大学等院校，说明人才来源覆盖非985/211；不能据此保证本岗位录用。",
+  "apply": "https://songmicshome.jobs.feishu.cn/852372/position/7686314339251783977/detail",
+  "applyLabel": "打开官方岗位详情",
+  "sources": [
+    [
+      "https://songmicshome.jobs.feishu.cn/852372/position/7686314339251783977/detail",
+      "官方 · 岗位详情与投递"
+    ],
+    [
+      "https://songmicshome.jobs.feishu.cn/852372",
+      "官网 · 2027校招时间与员工故事"
+    ]
+  ],
+  "tips": [
+    "经营指标、BI看板、AI提效",
+    "按岗位要求准备对应的英语、Excel、分析项目或作品案例。"
+  ]
+},
+{
+  "id": "sz-bambu-makerworld-trainee",
+  "badge": "拓",
+  "company": "拓竹科技",
+  "title": "MakerWorld全球运营培训生",
+  "industry": "出海业务",
+  "city": "深圳 / 上海（需选深圳）",
+  "type": "2027届校招 · 正式",
+  "availability": "新增候选 · 官网岗位可查",
+  "availabilityDetail": "2026-11-12 核查。截止情况：滚动，招满即止。岗位列示和申请入口不保证剩余名额，实际受理以企业为准。",
+  "deadlineLabel": "滚动，招满即止",
+  "duties": [
+    "社区增长、活动、创作者与数据分析"
+  ],
+  "requirements": [
+    "2027本科专业不限、CET6；英文文案及沟通",
+    "2027届校园招聘；具体毕业时间范围以本公司当届校招公告为准。"
+  ],
+  "school": "官方校招FAQ强调实践与分析解决问题能力，而非单纯学历和成绩，并明确本科生友好；未核实本岗位双非录用案例。",
+  "apply": "https://bambulab.jobs.feishu.cn/campus/position/7670442765041649956/detail",
+  "applyLabel": "打开官方岗位详情",
+  "sources": [
+    [
+      "https://bambulab.jobs.feishu.cn/campus/position/7670442765041649956/detail",
+      "官方 · 岗位详情与投递"
+    ],
+    [
+      "https://bambulab.jobs.feishu.cn/campus/page-yJLBmj",
+      "官方FAQ · 招满即止与人才要求"
+    ]
+  ],
+  "tips": [
+    "社区增长、活动、创作者与数据分析",
+    "按岗位要求准备对应的英语、Excel、分析项目或作品案例。"
+  ]
+},
+{
+  "id": "sz-bambu-lastmile",
+  "badge": "拓",
+  "company": "拓竹科技",
+  "title": "物流尾程运营",
+  "industry": "出海业务",
+  "city": "深圳",
+  "type": "2027届校招 · 正式",
+  "availability": "新增候选 · 官网岗位可查",
+  "availabilityDetail": "2026-11-12 核查。截止情况：滚动，招满即止。岗位列示和申请入口不保证剩余名额，实际受理以企业为准。",
+  "deadlineLabel": "滚动，招满即止",
+  "duties": [
+    "物流订单和交付；与用户服务运营区分"
+  ],
+  "requirements": [
+    "本科及以上，专业不限；英语与海外仓协调",
+    "2027届校园招聘；具体毕业时间范围以本公司当届校招公告为准。"
+  ],
+  "school": "官方校招FAQ强调实践与分析解决问题能力，而非单纯学历和成绩，并明确本科生友好；未核实本岗位双非录用案例。",
+  "apply": "https://bambulab.jobs.feishu.cn/campus/position/7670528894689102122/detail",
+  "applyLabel": "打开官方岗位详情",
+  "sources": [
+    [
+      "https://bambulab.jobs.feishu.cn/campus/position/7670528894689102122/detail",
+      "官方 · 岗位详情与投递"
+    ],
+    [
+      "https://bambulab.jobs.feishu.cn/campus/page-yJLBmj",
+      "官方FAQ · 招满即止与人才要求"
+    ]
+  ],
+  "tips": [
+    "物流订单和交付；与用户服务运营区分",
+    "按岗位要求准备对应的英语、Excel、分析项目或作品案例。"
+  ]
+},
+{
+  "id": "sz-tcl-procurement-trainee",
+  "badge": "T",
+  "company": "TCL实业",
+  "title": "供应链管培生（采购方向）—大显示屏采购管理平台",
+  "industry": "出海业务",
+  "city": "深圳",
+  "type": "2027届校招 · 正式",
+  "availability": "新增候选 · 官网岗位可查",
+  "availabilityDetail": "2026-11-12 核查。截止情况：官网未公布具体截止，查询时仍列岗。岗位列示和申请入口不保证剩余名额，实际受理以企业为准。",
+  "deadlineLabel": "官网未公布具体截止，查询时仍列岗",
+  "duties": [
+    "供应商、采购及市场信息分析"
+  ],
+  "requirements": [
+    "2027本科专业不限、CET6",
+    "2027届校园招聘；具体毕业时间范围以本公司当届校招公告为准。"
+  ],
+  "school": "本岗位未列985/211限制，未核实同业务单位同岗位双非录用案例。",
+  "apply": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/pb/posDetail.html?postId=6a8a7a3d1ad6db7cf833b62a&postType=campus",
+  "applyLabel": "打开官方岗位详情",
+  "sources": [
+    [
+      "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/pb/posDetail.html?postId=6a8a7a3d1ad6db7cf833b62a&postType=campus",
+      "官方 · 岗位详情与投递"
+    ],
+    [
+      "https://zhaopin.tcl.com/campus/recruiting.html?id=26#look",
+      "官方 · 校招批次"
+    ]
+  ],
+  "tips": [
+    "供应商、采购及市场信息分析",
+    "按岗位要求准备对应的英语、Excel、分析项目或作品案例。"
+  ]
+},
+{
+  "id": "sz-tcl-na-ecommerce",
+  "badge": "T",
+  "company": "TCL实业",
+  "title": "电商运营专员—北美营销本部",
+  "industry": "出海业务",
+  "city": "深圳",
+  "type": "2027届校招 · 正式",
+  "availability": "新增候选 · 官网岗位可查",
+  "availabilityDetail": "2026-11-12 核查。截止情况：官网未公布具体截止，查询时仍列岗。岗位列示和申请入口不保证剩余名额，实际受理以企业为准。",
+  "deadlineLabel": "官网未公布具体截止，查询时仍列岗",
+  "duties": [
+    "电商经营与数据复盘，贴合小皮经历"
+  ],
+  "requirements": [
+    "2027本科专业不限、CET6、Excel",
+    "2027届校园招聘；具体毕业时间范围以本公司当届校招公告为准。"
+  ],
+  "school": "本岗位未列985/211限制，未核实同业务单位同岗位双非录用案例。",
+  "apply": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/pb/posDetail.html?postId=6aeda5a1e71196a618cb1cf5&postType=campus",
+  "applyLabel": "打开官方岗位详情",
+  "sources": [
+    [
+      "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/pb/posDetail.html?postId=6aeda5a1e71196a618cb1cf5&postType=campus",
+      "官方 · 岗位详情与投递"
+    ],
+    [
+      "https://zhaopin.tcl.com/campus/recruiting.html?id=26#look",
+      "官方 · 校招批次"
+    ]
+  ],
+  "tips": [
+    "电商经营与数据复盘，贴合小皮经历",
+    "按岗位要求准备对应的英语、Excel、分析项目或作品案例。"
+  ]
+},
+{
+  "id": "sz-sunwoda-power-procurement",
+  "badge": "欣",
+  "company": "欣旺达",
+  "title": "采购执行专员-动力-深圳",
+  "industry": "新能源",
+  "city": "深圳",
+  "type": "2027届校招 · 正式",
+  "availability": "新增候选 · 官网岗位可查",
+  "availabilityDetail": "2026-11-12 核查。截止情况：滚动，招满即止。岗位列示和申请入口不保证剩余名额，实际受理以企业为准。",
+  "deadlineLabel": "滚动，招满即止",
+  "duties": [
+    "订单、交付与账务"
+  ],
+  "requirements": [
+    "本科，其他专业成绩优秀也可，CET6",
+    "2027届校园招聘；具体毕业时间范围以本公司当届校招公告为准。"
+  ],
+  "school": "2027届招聘信息有四川文理学院就业网发布记录，表明校招触达双非院校；不等于本岗位承诺录用。",
+  "apply": "https://sunwodacampus.zhiye.com/campus/jobs",
+  "applyLabel": "打开官网按完整岗位名查找",
+  "sources": [
+    [
+      "https://sunwodacampus.zhiye.com/campus/jobs",
+      "官方 · 岗位详情与投递"
+    ],
+    [
+      "https://portal-oss.zhiye.com/606619/resource/a49e364f-ff28-4c14-b1fc-4916851ba1f2.html",
+      "官方FAQ · 2027届与招满关闭"
+    ],
+    [
+      "https://zjc.sasu.edu.cn/info/1141/6644.htm",
+      "四川文理学院 · 2027招聘信息"
+    ]
+  ],
+  "tips": [
+    "订单、交付与账务",
+    "按岗位要求准备对应的英语、Excel、分析项目或作品案例。"
+  ]
+},
+{
+  "id": "sz-sunwoda-resource-procurement",
+  "badge": "欣",
+  "company": "欣旺达",
+  "title": "采购执行专员-资源发展公司-深圳",
+  "industry": "新能源",
+  "city": "深圳",
+  "type": "2027届校招 · 正式",
+  "availability": "新增候选 · 官网岗位可查",
+  "availabilityDetail": "2026-11-12 核查。截止情况：滚动，招满即止。岗位列示和申请入口不保证剩余名额，实际受理以企业为准。",
+  "deadlineLabel": "滚动，招满即止",
+  "duties": [
+    "市场分析与采购结算"
+  ],
+  "requirements": [
+    "本科，已读任职条件未列具体专业限制（不等于保证经济学受理）",
+    "2027届校园招聘；具体毕业时间范围以本公司当届校招公告为准。"
+  ],
+  "school": "2027届招聘信息有四川文理学院就业网发布记录，表明校招触达双非院校；不等于本岗位承诺录用。",
+  "apply": "https://sunwodacampus.zhiye.com/campus/jobs",
+  "applyLabel": "打开官网按完整岗位名查找",
+  "sources": [
+    [
+      "https://sunwodacampus.zhiye.com/campus/jobs",
+      "官方 · 岗位详情与投递"
+    ],
+    [
+      "https://portal-oss.zhiye.com/606619/resource/a49e364f-ff28-4c14-b1fc-4916851ba1f2.html",
+      "官方FAQ · 2027届与招满关闭"
+    ],
+    [
+      "https://zjc.sasu.edu.cn/info/1141/6644.htm",
+      "四川文理学院 · 2027招聘信息"
+    ]
+  ],
+  "tips": [
+    "市场分析与采购结算",
+    "按岗位要求准备对应的英语、Excel、分析项目或作品案例。"
+  ]
+},
+{
+  "id": "sz-sunwoda-logisticscenter-procurement",
+  "badge": "欣",
+  "company": "欣旺达",
+  "title": "采购执行专员-后勤中心-深圳",
+  "industry": "新能源",
+  "city": "深圳",
+  "type": "2027届校招 · 正式",
+  "availability": "新增候选 · 官网岗位可查",
+  "availabilityDetail": "2026-11-12 核查。截止情况：滚动，招满即止。岗位列示和申请入口不保证剩余名额，实际受理以企业为准。",
+  "deadlineLabel": "滚动，招满即止",
+  "duties": [
+    "采购价格成本、流程与台账；非行政岗"
+  ],
+  "requirements": [
+    "本科，已读任职条件未列具体专业限制（不等于保证经济学受理）",
+    "2027届校园招聘；具体毕业时间范围以本公司当届校招公告为准。"
+  ],
+  "school": "2027届招聘信息有四川文理学院就业网发布记录，表明校招触达双非院校；不等于本岗位承诺录用。",
+  "apply": "https://sunwodacampus.zhiye.com/campus/jobs",
+  "applyLabel": "打开官网按完整岗位名查找",
+  "sources": [
+    [
+      "https://sunwodacampus.zhiye.com/campus/jobs",
+      "官方 · 岗位详情与投递"
+    ],
+    [
+      "https://portal-oss.zhiye.com/606619/resource/a49e364f-ff28-4c14-b1fc-4916851ba1f2.html",
+      "官方FAQ · 2027届与招满关闭"
+    ],
+    [
+      "https://zjc.sasu.edu.cn/info/1141/6644.htm",
+      "四川文理学院 · 2027招聘信息"
+    ]
+  ],
+  "tips": [
+    "采购价格成本、流程与台账；非行政岗",
+    "按岗位要求准备对应的英语、Excel、分析项目或作品案例。"
+  ]
+},
+{
+  "id": "sz-sunwoda-battery2-procurement",
+  "badge": "欣",
+  "company": "欣旺达",
+  "title": "采购执行专员-电池事业二部-深圳",
+  "industry": "新能源",
+  "city": "深圳",
+  "type": "2027届校招 · 正式",
+  "availability": "新增候选 · 官网岗位可查",
+  "availabilityDetail": "2026-11-12 核查。截止情况：滚动，招满即止。岗位列示和申请入口不保证剩余名额，实际受理以企业为准。",
+  "deadlineLabel": "滚动，招满即止",
+  "duties": [
+    "采购下单、库存、对账"
+  ],
+  "requirements": [
+    "本科，已读任职条件未列具体专业限制（不等于保证经济学受理）",
+    "2027届校园招聘；具体毕业时间范围以本公司当届校招公告为准。"
+  ],
+  "school": "2027届招聘信息有四川文理学院就业网发布记录，表明校招触达双非院校；不等于本岗位承诺录用。",
+  "apply": "https://sunwodacampus.zhiye.com/campus/jobs",
+  "applyLabel": "打开官网按完整岗位名查找",
+  "sources": [
+    [
+      "https://sunwodacampus.zhiye.com/campus/jobs",
+      "官方 · 岗位详情与投递"
+    ],
+    [
+      "https://portal-oss.zhiye.com/606619/resource/a49e364f-ff28-4c14-b1fc-4916851ba1f2.html",
+      "官方FAQ · 2027届与招满关闭"
+    ],
+    [
+      "https://zjc.sasu.edu.cn/info/1141/6644.htm",
+      "四川文理学院 · 2027招聘信息"
+    ]
+  ],
+  "tips": [
+    "采购下单、库存、对账",
+    "按岗位要求准备对应的英语、Excel、分析项目或作品案例。"
+  ]
+},
+{
+  "id": "sz-xtool-operation-trainee",
+  "badge": "x",
+  "company": "xTool",
+  "title": "运营管培生",
+  "industry": "出海业务",
+  "city": "深圳",
+  "type": "2027届校招 · 正式",
+  "availability": "新增候选 · 官网岗位可查",
+  "availabilityDetail": "2026-11-12 核查。截止情况：官网未公布具体截止，查询时有申请入口。岗位列示和申请入口不保证剩余名额，实际受理以企业为准。",
+  "deadlineLabel": "官网未公布具体截止，查询时有申请入口",
+  "duties": [
+    "海外电商平台运营、数据分析"
+  ],
+  "requirements": [
+    "本科；商科、电商等优先；良好英语",
+    "2027届校园招聘；具体毕业时间范围以本公司当届校招公告为准。"
+  ],
+  "school": "未核实同岗位双非录用案例；校园招聘触达记录与岗位实际筛选标准应分开判断。",
+  "apply": "https://xtool.jobs.feishu.cn/420214/position/7688177422927644969/detail",
+  "applyLabel": "打开官方岗位详情",
+  "sources": [
+    [
+      "https://xtool.jobs.feishu.cn/420214/position/7688177422927644969/detail",
+      "官方 · 岗位详情与投递"
+    ],
+    [
+      "https://xtool.jobs.feishu.cn/420214/",
+      "官方 · 校园招聘入口"
+    ]
+  ],
+  "tips": [
+    "海外电商平台运营、数据分析",
+    "按岗位要求准备对应的英语、Excel、分析项目或作品案例。"
+  ]
+},
+{
+  "id": "sz-xtool-domestic-marketing-trainee",
+  "badge": "x",
+  "company": "xTool",
+  "title": "国内营销管培生",
+  "industry": "出海业务",
+  "city": "深圳",
+  "type": "2027届校招 · 正式",
+  "availability": "培养方向待核 · 申请前确认轮岗",
+  "availabilityDetail": "2026-11-12 核查。截止情况：官网未公布具体截止，查询时有申请入口。培养方向可能涉及销售或服务轮岗，需确认可选非销售、非服务运营方向后再投递。岗位列示和申请入口不保证剩余名额，实际受理以企业为准。",
+  "deadlineLabel": "官网未公布具体截止，查询时有申请入口",
+  "duties": [
+    "内容营销、KOL/KOC、广告增长；申请前核对具体培养方向"
+  ],
+  "requirements": [
+    "本科；市场营销优先，非硬性限制",
+    "2027届校园招聘；具体毕业时间范围以本公司当届校招公告为准。"
+  ],
+  "school": "未核实同岗位双非录用案例；校园招聘触达记录与岗位实际筛选标准应分开判断。",
+  "apply": "https://xtool.jobs.feishu.cn/420214/position/7688176536898521407/detail",
+  "applyLabel": "打开官方岗位详情",
+  "sources": [
+    [
+      "https://xtool.jobs.feishu.cn/420214/position/7688176536898521407/detail",
+      "官方 · 岗位详情与投递"
+    ],
+    [
+      "https://xtool.jobs.feishu.cn/420214/",
+      "官方 · 校园招聘入口"
+    ]
+  ],
+  "tips": [
+    "内容营销、KOL/KOC、广告增长；申请前核对具体培养方向",
+    "按岗位要求准备对应的英语、Excel、分析项目或作品案例。"
+  ]
+},
+{
+  "id": "sz-xtool-overseas-marketing-trainee",
+  "badge": "x",
+  "company": "xTool",
+  "title": "海外营销管培生",
+  "industry": "出海业务",
+  "city": "深圳",
+  "type": "2027届校招 · 正式",
+  "availability": "培养方向待核 · 申请前确认轮岗",
+  "availabilityDetail": "2026-11-12 核查。截止情况：官网未公布具体截止，查询时有申请入口。培养方向可能涉及销售或服务轮岗，需确认可选非销售、非服务运营方向后再投递。岗位列示和申请入口不保证剩余名额，实际受理以企业为准。",
+  "deadlineLabel": "官网未公布具体截止，查询时有申请入口",
+  "duties": [
+    "产品营销、GTM、内容与市场洞察；需核对培养方向"
+  ],
+  "requirements": [
+    "本科；商科等优先；英语可作工作语言",
+    "2027届校园招聘；具体毕业时间范围以本公司当届校招公告为准。"
+  ],
+  "school": "未核实同岗位双非录用案例；校园招聘触达记录与岗位实际筛选标准应分开判断。",
+  "apply": "https://xtool.jobs.feishu.cn/420214/position/7687931176036010294/detail",
+  "applyLabel": "打开官方岗位详情",
+  "sources": [
+    [
+      "https://xtool.jobs.feishu.cn/420214/position/7687931176036010294/detail",
+      "官方 · 岗位详情与投递"
+    ],
+    [
+      "https://xtool.jobs.feishu.cn/420214/",
+      "官方 · 校园招聘入口"
+    ]
+  ],
+  "tips": [
+    "产品营销、GTM、内容与市场洞察；需核对培养方向",
+    "按岗位要求准备对应的英语、Excel、分析项目或作品案例。"
+  ]
+},
+{
+  "id": "sz-sailvan-amazon",
+  "badge": "赛",
+  "company": "赛维时代",
+  "title": "跨境电商亚马逊运营",
+  "industry": "出海业务",
+  "city": "深圳·龙岗",
+  "type": "2027届校招 · 正式",
+  "availability": "新增候选 · 官网岗位可查",
+  "availabilityDetail": "2026-11-12 核查。截止情况：官网未公布具体截止，查询时仍列岗。岗位列示和申请入口不保证剩余名额，实际受理以企业为准。",
+  "deadlineLabel": "官网未公布具体截止，查询时仍列岗",
+  "duties": [
+    "电商经营与平台运营"
+  ],
+  "requirements": [
+    "本科及以上；CET6或专四；小语种优先",
+    "2027届校园招聘；具体毕业时间范围以本公司当届校招公告为准。"
+  ],
+  "school": "未核实同岗位双非录用案例，以职位学历、专业要求及实际筛选为准。",
+  "apply": "https://wecruit.hotjob.cn/SU64fab7533538bc5fd6f83e0d/pb/school.html",
+  "applyLabel": "打开官网按完整岗位名查找",
+  "sources": [
+    [
+      "https://wecruit.hotjob.cn/SU64fab7533538bc5fd6f83e0d/pb/school.html",
+      "官方 · 岗位详情与投递"
+    ],
+    [
+      "https://www.sailvan.com/aboutus.html",
+      "官网 · 企业介绍"
+    ]
+  ],
+  "tips": [
+    "电商经营与平台运营",
+    "按岗位要求准备对应的英语、Excel、分析项目或作品案例。"
+  ]
+},
+{
+  "id": "sz-sailvan-video",
+  "badge": "赛",
+  "company": "赛维时代",
+  "title": "服装短视频运营",
+  "industry": "出海业务",
+  "city": "深圳·龙岗",
+  "type": "2027届校招 · 正式",
+  "availability": "专业或作品待匹配 · 官网岗位可查",
+  "availabilityDetail": "2026-11-12 核查。截止情况：官网未公布具体截止，查询时仍列岗。岗位列示和申请入口不保证剩余名额，实际受理以企业为准。",
+  "deadlineLabel": "官网未公布具体截止，查询时仍列岗",
+  "duties": [
+    "短视频内容运营；需准备作品"
+  ],
+  "requirements": [
+    "本科优先；营销/广告/影视/数字媒体优先",
+    "2027届校园招聘；具体毕业时间范围以本公司当届校招公告为准。"
+  ],
+  "school": "未核实同岗位双非录用案例，以职位学历、专业要求及实际筛选为准。",
+  "apply": "https://wecruit.hotjob.cn/SU64fab7533538bc5fd6f83e0d/pb/school.html",
+  "applyLabel": "打开官网按完整岗位名查找",
+  "sources": [
+    [
+      "https://wecruit.hotjob.cn/SU64fab7533538bc5fd6f83e0d/pb/school.html",
+      "官方 · 岗位详情与投递"
+    ],
+    [
+      "https://www.sailvan.com/aboutus.html",
+      "官网 · 企业介绍"
+    ]
+  ],
+  "tips": [
+    "短视频内容运营；需准备作品",
+    "按岗位要求准备对应的英语、Excel、分析项目或作品案例。"
+  ]
+},
+{
+  "id": "sz-sailvan-apparel-research",
+  "badge": "赛",
+  "company": "赛维时代",
+  "title": "服装调研分析员",
+  "industry": "出海业务",
+  "city": "深圳·龙岗",
+  "type": "2027届校招 · 正式",
+  "availability": "专业或作品待匹配 · 官网岗位可查",
+  "availabilityDetail": "2026-11-12 核查。截止情况：官网未公布具体截止，查询时仍列岗。岗位列示和申请入口不保证剩余名额，实际受理以企业为准。",
+  "deadlineLabel": "官网未公布具体截止，查询时仍列岗",
+  "duties": [
+    "消费者与商品研究；需补服装知识"
+  ],
+  "requirements": [
+    "本科；服装设计与工程相关专业优先",
+    "2027届校园招聘；具体毕业时间范围以本公司当届校招公告为准。"
+  ],
+  "school": "未核实同岗位双非录用案例，以职位学历、专业要求及实际筛选为准。",
+  "apply": "https://wecruit.hotjob.cn/SU64fab7533538bc5fd6f83e0d/pb/school.html",
+  "applyLabel": "打开官网按完整岗位名查找",
+  "sources": [
+    [
+      "https://wecruit.hotjob.cn/SU64fab7533538bc5fd6f83e0d/pb/school.html",
+      "官方 · 岗位详情与投递"
+    ],
+    [
+      "https://www.sailvan.com/aboutus.html",
+      "官网 · 企业介绍"
+    ]
+  ],
+  "tips": [
+    "消费者与商品研究；需补服装知识",
+    "按岗位要求准备对应的英语、Excel、分析项目或作品案例。"
+  ]
+}
 ];
