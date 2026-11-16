@@ -1614,4 +1614,101 @@ window.SEED_JOBS = [
     "按岗位要求准备对应的英语、Excel、分析项目或作品案例。"
   ]
 }
+,
+{
+  "id": "hz-target-supor",
+  "badge": "苏",
+  "company": "苏泊尔",
+  "title": "目标公司 · 暂无已核实可投岗位",
+  "city": "杭州",
+  "industry": "绿色制造",
+  "type": "目标公司 · 非已确认校招岗位",
+  "availability": "关注名单 · 暂无已核实可投岗位",
+  "availabilityDetail": "2026-11-16核查。官网校园招聘本轮显示0条记录。未核实有效申请截止日期。请待具体岗位确认2027届、专业和正式用工条件后投递。",
+  "duties": [
+    "建议关注方向（适配判断，非已开放岗位）：电商经营分析、需求计划、采购、产品分析"
+  ],
+  "requirements": [
+    "经济学本科可申的2027届正式岗位尚待核实。",
+    "排除销售、人资、行政及服务运营岗位。"
+  ],
+  "school": "未核实同岗位双非录用证据，外企身份不等于录用承诺。",
+  "description": "法国SEB控股，2026三季报持股83.65%。",
+  "apply": "https://www.hotjob.cn/wt/suporcw/web/index/campus",
+  "applyLabel": "查看官方招聘入口",
+  "sources": [
+    [
+      "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12655163&stockid=002032",
+      "外企身份/杭州实体核查来源"
+    ],
+    [
+      "https://www.hotjob.cn/wt/suporcw/web/index/campus",
+      "官方入口"
+    ]
+  ]
+},
+{
+  "id": "hz-target-panasonic",
+  "badge": "松",
+  "company": "松下家电（中国）有限公司",
+  "title": "目标公司 · 暂无已核实可投岗位",
+  "city": "杭州",
+  "industry": "绿色制造",
+  "type": "目标公司 · 非已确认校招岗位",
+  "availability": "关注名单 · 暂无已核实可投岗位",
+  "availabilityDetail": "2026-11-16核查。未核到明确接受经济学本科的杭州2027届正式岗位。未核实有效申请截止日期。请待具体岗位确认2027届、专业和正式用工条件后投递。",
+  "duties": [
+    "建议关注方向（适配判断，非已开放岗位）：采购、供应链计划、经营分析"
+  ],
+  "requirements": [
+    "经济学本科可申的2027届正式岗位尚待核实。",
+    "排除销售、人资、行政及服务运营岗位。"
+  ],
+  "school": "未核实同岗位双非录用证据，外企身份不等于录用承诺。",
+  "description": "日本松下旗下独资企业，总部杭州钱塘区松乔街2号。",
+  "apply": "https://panasonic.cn/about/panasonic-china/papcn/",
+  "applyLabel": "查看官方公司介绍",
+  "sources": [
+    [
+      "https://panasonic.cn/about/panasonic-china/papcn/",
+      "外企身份/杭州实体核查来源"
+    ],
+    [
+      "https://panasonic.cn/about/panasonic-china/papcn/",
+      "官方入口"
+    ]
+  ]
+},
+{
+  "id": "hz-target-bosch",
+  "badge": "博",
+  "company": "博世电动工具（中国）有限公司",
+  "title": "目标公司 · 暂无已核实可投岗位",
+  "city": "杭州",
+  "industry": "绿色制造",
+  "type": "目标公司 · 非已确认校招岗位",
+  "availability": "关注名单 · 暂无已核实可投岗位",
+  "availabilityDetail": "2026-11-16核查。采购岗专业偏工程/供应链，2027届及经济学资格未明确；计划岗要求经验。未核实有效申请截止日期。请待具体岗位确认2027届、专业和正式用工条件后投递。",
+  "duties": [
+    "建议关注方向（适配判断，非已开放岗位）：采购、供应链分析、成本及经营分析"
+  ],
+  "requirements": [
+    "经济学本科可申的2027届正式岗位尚待核实。",
+    "排除销售、人资、行政及服务运营岗位。"
+  ],
+  "school": "未核实同岗位双非录用证据，外企身份不等于录用承诺。",
+  "description": "德国博世旗下外资企业，杭州滨江区滨康路567号。",
+  "apply": "https://app.mokahr.com/campus-recruitment/bosch/168626?locale=zh-CN",
+  "applyLabel": "查看官方招聘入口",
+  "sources": [
+    [
+      "https://www.bosch-pt.com/ptlegalpages/cn/rbcn/zh/extranet/imprint",
+      "外企身份/杭州实体核查来源"
+    ],
+    [
+      "https://app.mokahr.com/campus-recruitment/bosch/168626?locale=zh-CN",
+      "官方入口"
+    ]
+  ]
+}
 ];
