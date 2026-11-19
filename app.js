@@ -106,7 +106,7 @@ function render() {
   const shown=jobs.filter((job)=>{
     const stage=entryFor(job.id).stage;
     const stageMatch=!filter||stage===filter||(filter==="waiting"&&["todo","ready"].includes(stage))||(filter==="active"&&["sent","interview","offer"].includes(stage));
-    return stageMatch&&(!industry||job.industry===industry)&&[job.company,job.title,job.city,job.industry].join(" ").toLocaleLowerCase().includes(query);
+    return stageMatch&&(!industry||job.industry===industry)&&[job.company,job.title,job.department,job.city,job.industry].join(" ").toLocaleLowerCase().includes(query);
   });
   $("resultCount").textContent="显示 "+shown.length+" 个岗位";
   $("jobs").innerHTML=shown.length?shown.map((job)=>{
@@ -114,7 +114,7 @@ function render() {
     const color=job.industry==="船舶港航"?"blue":job.industry==="绿色制造"?"gold":job.industry==="出海业务"?"lilac":"";
     const info=activeView==="resume"?(entry.attachment?"已关联附件":entry.resume?"已保存草稿":job.resumeMatch?"可批量关联 PDF":"待准备简历"):job.availability||"自建岗位";
     const sub=activeView==="track"&&entry.followUp?"跟进 "+entry.followUp:job.deadline?"截止 "+job.deadline:job.availability?"截止待查":"";
-    return '<button type="button" class="job-row" data-job="'+safe(job.id)+'"><span class="job-logo '+color+'">'+safe(job.badge||job.company.slice(0,1))+'</span><span class="job-copy"><strong>'+safe(job.title)+'</strong><span class="job-meta">'+safe([job.company,job.city,job.type].filter(Boolean).join(" · "))+'</span><span class="job-tags"><span class="chip '+color+'">'+safe(job.industry)+'</span><span class="chip">'+safe(info)+'</span></span></span><span class="job-side"><span class="status-pill '+entry.stage+'">'+stages[entry.stage]+"</span>"+(sub?"<small>"+safe(sub)+"</small>":"")+'</span><i class="job-arrow" data-icon="chevron"></i></button>';
+    return '<button type="button" class="job-row" data-job="'+safe(job.id)+'"><span class="job-logo '+color+'">'+safe(job.badge||job.company.slice(0,1))+'</span><span class="job-copy"><strong>'+safe(job.title)+'</strong><span class="job-meta">'+safe([job.company,job.department,job.city,job.type].filter(Boolean).join(" · "))+'</span><span class="job-tags"><span class="chip '+color+'">'+safe(job.industry)+'</span><span class="chip">'+safe(info)+'</span></span></span><span class="job-side"><span class="status-pill '+entry.stage+'">'+stages[entry.stage]+"</span>"+(sub?"<small>"+safe(sub)+"</small>":"")+'</span><i class="job-arrow" data-icon="chevron"></i></button>';
   }).join(""):'<p class="empty">当前筛选下没有岗位。<br>可以调整筛选或添加一个岗位。</p>';
   drawIcons($("jobs"));
 }
@@ -172,7 +172,7 @@ function renderDetail() {
   const tabs={jd:"岗位 JD",resume:"定制简历",track:"进度与备注"};
   const source=job.apply||job.source||job.sources?.[0]?.[0];
   const apply=source?link(source,job.applyLabel||"招聘入口").replace("<a ","<a class=\"secondary\" "):"";
-  $("jobDetail").innerHTML='<header class="drawer-head"><div class="drawer-top"><div><div class="eyebrow">'+safe(job.company)+'</div><h2 id="dialogTitle">'+safe(job.title)+'</h2></div><button class="icon-button" data-close="jobDialog" aria-label="关闭">'+icon("x")+'</button></div><p class="drawer-meta">'+safe([job.city,job.type,job.deadline?"截止 "+job.deadline:""].filter(Boolean).join(" · "))+'</p><div class="drawer-actions"><label class="stage-label" for="stage">投递阶段</label><select class="stage-select" id="stage">'+options(stages)+'</select>'+apply+'</div></header><div class="drawer-tabs" role="tablist" aria-label="岗位详情">'+Object.entries(tabs).map(([id,label])=>'<button class="drawer-tab" type="button" role="tab" id="tab-'+id+'" aria-controls="detailPanel" aria-selected="'+(activeTab===id)+'" data-tab="'+id+'">'+label+'</button>').join("")+'</div><div class="drawer-body" id="detailPanel" role="tabpanel" aria-labelledby="tab-'+activeTab+'">'+detailContent(job,entry)+"</div>";
+  $("jobDetail").innerHTML='<header class="drawer-head"><div class="drawer-top"><div><div class="eyebrow">'+safe(job.company)+'</div><h2 id="dialogTitle">'+safe(job.title)+'</h2></div><button class="icon-button" data-close="jobDialog" aria-label="关闭">'+icon("x")+'</button></div><p class="drawer-meta">'+safe([job.department,job.city,job.type,job.deadline?"截止 "+job.deadline:""].filter(Boolean).join(" · "))+'</p><div class="drawer-actions"><label class="stage-label" for="stage">投递阶段</label><select class="stage-select" id="stage">'+options(stages)+'</select>'+apply+'</div></header><div class="drawer-tabs" role="tablist" aria-label="岗位详情">'+Object.entries(tabs).map(([id,label])=>'<button class="drawer-tab" type="button" role="tab" id="tab-'+id+'" aria-controls="detailPanel" aria-selected="'+(activeTab===id)+'" data-tab="'+id+'">'+label+'</button>').join("")+'</div><div class="drawer-body" id="detailPanel" role="tabpanel" aria-labelledby="tab-'+activeTab+'">'+detailContent(job,entry)+"</div>";
   $("stage").value=entry.stage;
 }
 function openJob(id) {
